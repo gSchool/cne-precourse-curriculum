@@ -24,4 +24,4 @@ Java(TM) SE Runtime Environment (build 1.8.0_05-b13)
 Java HotSpot(TM) 64-Bit Server VM (build 25.5-b02, mixed mode)
 ```
 
-## [Move to Step 2 =>](./Step 2 - Git and Java.md)
+## [Move to Step 2: Git and Java =>](./Step 2 - Git and Java.md)

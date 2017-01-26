@@ -39,4 +39,4 @@ Create a new file, and copy and paste the output into a new file called `system-
 
 Add, commit and push your changes in Git.  See https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/ for help on how to do that.
 
-## [Move to Step 3 =>](./Step 3 - Java Programming.md)
+## [Move to Step 3: Java Programming =>](./Step 3 - Java Programming.md)

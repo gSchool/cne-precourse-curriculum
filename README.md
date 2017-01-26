@@ -12,7 +12,6 @@ In order to enroll in CNT you must be able to:
 - Setup a Github account
 - Fork and Clone Github Repositories
 - Add commit and push changes
-- Follow prompts to branch and push branches
 
 **Java**
 
@@ -26,7 +25,6 @@ In order to enroll in CNT you must be able to:
   - Getters
   - Setters
 - Create and Implement Interfaces
-- Solve a basic algorithm in Java
 
 ## What you'll do
 
@@ -36,6 +34,5 @@ In order to demonstrate your mastery of the areas above, you'll be asked to:
 - Run a Java application
 - Make changes, add commit and push them
 - Make tests pass in the Java app
-- Create a branch and push the changes to that branch
 
-## [Move to Step 1 =>](./Step 1 - Installation.md)
+## [Move to Step 1: Installation =>](./Step 1 - Installation.md)
