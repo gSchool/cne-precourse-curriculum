@@ -39,12 +39,21 @@ Override the `toString` method to return the address in the format `<street>, <c
 15 Main St, Cleveland, OH 44101
 ```
 
+> _REFERENCE_:
+  - [Getters and Setters](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+  - [Constructors](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)
+  - [toString](http://www.javapractices.com/topic/TopicAction.do?Id=55)
+
+
 ## Addressable Interface
 
 Create an Interface named `Addressable` with two methods:
 
 - `getAddresses` - takes 0 arguments, returns a `List` of `Address` objects
 - `addAddress` - takes an `Address`, returns void
+
+> _REFERENCE_:
+  - [Interfaces](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
 
 ## Business Class
 
@@ -60,6 +69,9 @@ Create a constructor for `Business` with a single parameter for `name` (a String
 Create a getter for `name`.
 
 Implement `Addressable` such that if you call `addAddress` and pass it an address, then call `getAddresses`, the address you added should be in the list.
+
+> _REFERENCE_:
+  - [Lists](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
 
 ## Check your work
 

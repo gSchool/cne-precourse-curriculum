@@ -1,6 +1,8 @@
 # Step 2: Git and Java
 
-Fork and Clone https://github.com/gSchool/cnt-precourse-drills.  See this article for help on Forking projects https://help.github.com/articles/fork-a-repo/.
+Fork and Clone https://github.com/gSchool/cnt-precourse-drills
+
+> REFERENCE: https://help.github.com/articles/fork-a-repo/
 
 Once you have cloned the repo, `cd` into the `cnt-precourse-drills` directory, then run the following:
 
@@ -22,7 +24,9 @@ The output should look like this (but longer):
 }
 ```
 
-Create a new file, and copy and paste the output into a new file called `system-properties.json`.  Your file structure should now look like this:
+Create a new file, and copy and paste the output into a new file called `system-properties.json`.  
+
+Your file structure should now look like this:
 
 ```
 .
@@ -37,6 +41,8 @@ Create a new file, and copy and paste the output into a new file called `system-
 └── system-properties.json
 ```
 
-Add, commit and push your changes in Git.  See https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/ for help on how to do that.
+Add, commit and push your changes in Git.  
+
+> REFERENCE: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
 
 ## [Move to Step 3: Java Programming =>](./Step 3 - Java Programming.md)
