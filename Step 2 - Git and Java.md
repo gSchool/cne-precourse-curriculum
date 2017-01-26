@@ -7,7 +7,7 @@ Fork and Clone https://github.com/gSchool/cnt-precourse-drills
 Once you have cloned the repo, `cd` into the `cnt-precourse-drills` directory, then run the following:
 
 ```
-./gradlew clean build
+./gradlew assemble
 java -jar build/libs/cnt-precourse-drills.jar
 ```
 
