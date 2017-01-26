@@ -38,4 +38,4 @@ In order to demonstrate your mastery of the areas above, you'll be asked to:
 - Make tests pass in the Java app
 - Create a branch and push the changes to that branch
 
-## [I'm Ready! =>](./01 - Git.md)
+## [Move to Step 1 =>](./Step 1 - Installation.md)
