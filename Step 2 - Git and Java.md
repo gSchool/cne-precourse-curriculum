@@ -1,14 +1,14 @@
 # Step 2: Git and Java
 
-Fork and Clone https://github.com/gSchool/cnt-precourse-drills
+Fork and Clone https://github.com/gSchool/cne-precourse-drills
 
 > REFERENCE: https://help.github.com/articles/fork-a-repo/
 
-Once you have cloned the repo, `cd` into the `cnt-precourse-drills` directory, then run the following:
+Once you have cloned the repo, `cd` into the `cne-precourse-drills` directory, then run the following:
 
 ```
 ./gradlew assemble
-java -jar build/libs/cnt-precourse-drills.jar
+java -jar build/libs/cne-precourse-drills.jar
 ```
 
 The output should look like this (but longer):

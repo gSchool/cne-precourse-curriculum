@@ -1,12 +1,12 @@
-# Galvanize CNT (Cloud Native Technologist) Precourse
+# Galvanize CNE (Cloud Native Essentials) Precourse
 
-This precourse is designed to ensure that you have the necessary skills to participate effectively in the Cloud Native Technologist (CNT) course.
+This precourse is designed to ensure that you have the necessary skills to participate effectively in the Cloud Native Technologist (CNE) course.
 
-In order to get the most out of CNT, you will need need to have a baseline familiarity with Git, Java and the Web.
+In order to get the most out of CNE, you will need need to have a baseline familiarity with Git, Java and the Web.
 
 **Git**
 
-In order to enroll in CNT you must be able to:
+In order to enroll in CNE you must be able to:
 
 - Get a working version of Git installed on your local machine
 - Setup a Github account
@@ -15,7 +15,7 @@ In order to enroll in CNT you must be able to:
 
 **Java**
 
-In order to enroll in CNT you must be able to:
+In order to enroll in CNE you must be able to:
 
 - Setup Java 8 on your local machine
 - Build and run basic Java applications
