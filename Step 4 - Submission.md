@@ -1,7 +1,7 @@
 # Submission
 
-Once you have completed the previous steps, submit the URL to your assessment here:
+Once you have completed the code challenges, submit your URL.
 
-https://goo.gl/forms/OJpDSLJJOkEkry712
+You should have received a link to the submission form via email.
 
 That's it!!
