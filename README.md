@@ -1,6 +1,6 @@
 # Galvanize CNE (Cloud Native Essentials) Precourse
 
-This precourse is designed to ensure that you have the necessary skills to participate effectively in the Cloud Native Technologist (CNE) course.
+This precourse is designed to ensure that you have the necessary skills to participate effectively in the Cloud Native Essentials (CNE) course.
 
 In order to get the most out of CNE, you will need need to have a baseline familiarity with Git, Java and the Web.
 
