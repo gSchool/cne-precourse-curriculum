@@ -5,7 +5,7 @@
 By the end of this step you should demonstrate the ability to:
 
 - Write and implement a Java Interface
-- Write a Java classes with:
+- Write Java classes with:
   - private fields
   - constructors
   - getters and setters
