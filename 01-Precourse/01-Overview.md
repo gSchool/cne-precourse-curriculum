@@ -34,5 +34,3 @@ In order to demonstrate your mastery of the areas above, you'll be asked to:
 - Run a Java application
 - Make changes, add commit and push them
 - Make tests pass in the Java app
-
-## [Move to Step 1: Installation =>](./Step 1 - Installation.md)

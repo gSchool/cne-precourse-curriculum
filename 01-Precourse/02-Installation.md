@@ -26,5 +26,3 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.5-b02, mixed mode)
 ```
 
 > _REFERENCE_: https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html
-
-## [Move to Step 2: Git and Java =>](./Step 2 - Git and Java.md)

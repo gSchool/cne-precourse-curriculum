@@ -44,5 +44,3 @@ Your file structure should now look like this:
 Add, commit and push your changes in Git.  
 
 > REFERENCE: https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
-
-## [Move to Step 3: Java Programming =>](./Step 3 - Java Programming.md)

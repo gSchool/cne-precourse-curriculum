@@ -84,5 +84,3 @@ Run the following to ensure that your work is complete and accurate:
 ## Add, Commit and Push
 
 Make sure your changes are in Github.
-
-## [Move to Step 4: Submit Your Work =>](./Step 4 - Submission.md)
