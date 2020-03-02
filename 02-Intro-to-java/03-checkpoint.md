@@ -44,6 +44,7 @@ See Read Command Line Arguments if you need a refresher on how to take command l
 * upstream: https://github.com/gSchool/java-intro-checkpoint
 * validate_fork: true
 * standard_uuids: JAVA0100-V1
+* points: 8
 
 ##### !question
 
