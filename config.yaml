@@ -53,3 +53,4 @@ Standards:
         Type: Checkpoint
         UID: 157f037c2f0f13c1f0f41c2226acf387
         Path: /02-Intro-to-java/03-checkpoint.md
+        Autoscore: true
