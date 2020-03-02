@@ -8,29 +8,48 @@
 ---
 Standards:
   -
-    Title: Precourse
-    Description: Precourse
-    UID: 47afdaac715fe12762e98aba0d6fceac
+    Title: Precourse Setup
+    Description: Precourse Setup
+    UID: 99377bc74e7b0723010d5ce1250d7a5c
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 08edb46f575a9f28f09e4e99e74db1f0
-        Path: /01-Precourse/01-Overview.md
+        UID: eaab66ff1414c43d54fe9af7f77ce9c3
+        Path: /01-Precourse-setup/01-Overview.md
       -
         Type: Lesson
-        UID: 886764477793cbd3a02dcee47bbdd841
-        Path: /01-Precourse/02-Installation.md
+        UID: bb92106a9151ae13f9d80f929f5717d5
+        Path: /01-Precourse-setup/02-Installation.md
       -
         Type: Lesson
-        UID: 97d746bbb51138335f9724e98d7242c2
-        Path: /01-Precourse/03-Git and Java.md
+        UID: 30059bd7d775a3d3fe7727c3b092955e
+        Path: /01-Precourse-setup/03-Git and Java.md
       -
         Type: Lesson
-        UID: 7a309749183c693379e4429e1475572b
-        Path: /01-Precourse/04-Java Programming.md
+        UID: 4fa0ee558216ee13df5e6ad5d0dc6b5a
+        Path: /01-Precourse-setup/04-Java Programming.md
       -
         Type: Lesson
-        UID: 0de0971259dc9a83a2b97552515a3467
-        Path: /01-Precourse/05-Submission.md
+        UID: 1f209542857f915dc5272d0a74ae38bf
+        Path: /01-Precourse-setup/05-Submission.md
+  -
+    Title: Intro To Java
+    Description: Intro To Java
+    UID: 46e183d60ad102edfc883c7cb731c6b6
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 5da963abf5d9e309c9d4f574b8de6bed
+        Path: /02-Intro-to-java/01-if-statements.md
+      -
+        Type: Lesson
+        UID: 0c519843a53e6b84af0d512d2fc42be4
+        Path: /02-Intro-to-java/02-loops.md
+      -
+        Type: Checkpoint
+        UID: 157f037c2f0f13c1f0f41c2226acf387
+        Path: /02-Intro-to-java/03-checkpoint.md
